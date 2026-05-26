@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-| Project | Description |
-|---------|-------------|
-| [Object-Detection](https://github.com/jinhee-ai-kim/Object-Detection) | Faster R-CNN vs YOLOv8s for indoor object detection on Open Images V7 (10 classes) |
-| [finance-rag-chatbot](https://github.com/jinhee-ai-kim/finance-rag-chatbot) | 💰 RAG-based AI chatbot for financial policy PDFs using LangChain, Upstage Solar & Streamlit |
-| [credit-default-xai](https://github.com/jinhee-ai-kim/credit-default-xai) | Explainable AI for credit default prediction using SHAP and DiCE |
-| [resnet50-finetuning-cifar10](https://github.com/jinhee-ai-kim/resnet50-finetuning-cifar10) | Image classification via ResNet50 fine-tuning on CIFAR-10 |
-| [cgan-for-fraud-detection](https://github.com/jinhee-ai-kim/cgan-for-fraud-detection) | Conditional GAN applied to fraud detection |
-| [lstm-gru-sentiment](https://github.com/jinhee-ai-kim/lstm-gru-sentiment) | Sentiment analysis with LSTM and GRU |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinhee-ai-kim&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhee-ai-kim&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jinhee-ai-kim&theme=default&hide_border=true"/>
+</p>
 
 ---
 
