@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 | Project | Description |
 |---------|-------------|
-| [Object-Detection](https://github.com/djennieland/Object-Detection) | Faster R-CNN vs YOLOv8s for indoor object detection on Open Images V7 (10 classes) |
-| [finance-rag-chatbot](https://github.com/djennieland/finance-rag-chatbot) | 💰 RAG-based AI chatbot for financial policy PDFs using LangChain, Upstage Solar & Streamlit |
-| [credit-default-xai](https://github.com/djennieland/credit-default-xai) | Explainable AI for credit default prediction using SHAP and DiCE |
-| [resnet50-finetuning-cifar10](https://github.com/djennieland/resnet50-finetuning-cifar10) | Image classification via ResNet50 fine-tuning on CIFAR-10 |
-| [cgan-for-fraud-detection](https://github.com/djennieland/cgan-for-fraud-detection) | Conditional GAN applied to fraud detection |
-| [lstm-gru-sentiment](https://github.com/djennieland/lstm-gru-sentiment) | Sentiment analysis with LSTM and GRU |
+| [Object-Detection](https://github.com/jinhee-ai-kim/Object-Detection) | Faster R-CNN vs YOLOv8s for indoor object detection on Open Images V7 (10 classes) |
+| [finance-rag-chatbot](https://github.com/jinhee-ai-kim/finance-rag-chatbot) | 💰 RAG-based AI chatbot for financial policy PDFs using LangChain, Upstage Solar & Streamlit |
+| [credit-default-xai](https://github.com/jinhee-ai-kim/credit-default-xai) | Explainable AI for credit default prediction using SHAP and DiCE |
+| [resnet50-finetuning-cifar10](https://github.com/jinhee-ai-kim/resnet50-finetuning-cifar10) | Image classification via ResNet50 fine-tuning on CIFAR-10 |
+| [cgan-for-fraud-detection(https://github.com/jinhee-ai-kim/cgan-for-fraud-detection) | Conditional GAN applied to fraud detection |
+| [lstm-gru-sentiment](https://github.com/jinhee-ai-kim/lstm-gru-sentiment) | Sentiment analysis with LSTM and GRU |
 
 ---
 
