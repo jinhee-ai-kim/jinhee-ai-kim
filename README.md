@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-jade-tau-63.vercel.app/api?username=jinhee-ai-kim&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-jade-tau-63.vercel.app/api?username=jinhee-ai-kim&show_icons=true&theme=default&hide_border=true&hide_rank=true" height="160"/>
   <img src="https://github-readme-stats-jade-tau-63.vercel.app/api/top-langs/?username=jinhee-ai-kim&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jinhee-ai-kim&theme=default&hide_border=true"/>
